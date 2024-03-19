@@ -4,8 +4,8 @@
     .paths = .{""},
     .dependencies = .{
         .raylib = .{
-            .url = "https://github.com/raysan5/raylib/archive/40f3df5b865eee0cd87a9e4e1347cb04c87841f8.tar.gz",
-            .hash = "12209bb07b3926d027de330c05d9425eaa52cc1a40eed291628370ba759653d5f961",
+            .url = "https://github.com/holmesmr/raylib/archive/a9750ce912bc9f4db73a0bc0cc383622dc5f7660.tar.gz",
+            .hash = "1220551f6a91e000bf3f68fab6d250d7c0c2425256e87bafc981f18b6cad4b67d31a",
         },
     },
 }
